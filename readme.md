@@ -22,7 +22,7 @@
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/vulnmapper.git
+   git clone https://github.com/shivkumaarr/vulnmapper.git
    cd vulnmapper
    ```
 
